@@ -11,4 +11,5 @@ Training Steps:
 5. Run train.py to start training.
 
 Camera detection and video stream detection can be performed using video.py.
+
 Run predict.py and enter the name of the image such as street.jpg to detect the object in the image.
